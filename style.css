@@ -37,8 +37,8 @@ h1{
     font-size: 3rem!important;
     font-weight: 900!important;
     margin-bottom:15px!important;
-    margin-left: 10px ;
-    margin-right:10px ;
+    margin-left: 1rem!important ;
+    margin-right:1rem!important ;
 
 }
 .undertitle{
@@ -82,9 +82,12 @@ h1{
 .purple-color p{
     font-family: 'Merriweather', serif;
     color:white;
-    margin: auto 25% auto 25%;
+    margin: auto;
     letter-spacing:1.8px;
     padding-bottom:350px;
+    margin-right:1rem;
+    margin-left:1rem;
+
 
 }
 
@@ -284,10 +287,14 @@ dot{
         border-top-style: solid;
         border-left-width: 0px;
     }
+
+}
+
+
+@media (min-width: 950px){
     .purple-color p{
+        margin-left: 20rem; 
+        margin-right: 20rem;
 
-        margin: auto 50% auto 50%;
-
-    
     }
 }
