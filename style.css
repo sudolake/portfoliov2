@@ -37,8 +37,8 @@ h1{
     font-size: 3rem!important;
     font-weight: 900!important;
     margin-bottom:15px!important;
-    padding-left: 7px ;
-    padding-right:7px ;
+    margin-left: 10px ;
+    margin-right:10px ;
 
 }
 .undertitle{
@@ -283,5 +283,11 @@ dot{
         border-top-width: 1px;
         border-top-style: solid;
         border-left-width: 0px;
+    }
+    .purple-color p{
+
+        margin: auto 15% auto 15%;
+
+    
     }
 }
