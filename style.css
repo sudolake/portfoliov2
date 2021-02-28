@@ -298,3 +298,9 @@ dot{
 
     }
 }
+
+@media (max-width: 1100px){
+    .server-image{
+        width: 75%;
+      }
+
