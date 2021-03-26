@@ -57,7 +57,7 @@ h1{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 28rem;
+        width: 30rem;
         height: auto;
 
       }
@@ -307,7 +307,7 @@ dot{
 
     .server-image{
 
-        width: 22.6rem;
+        width: 22rem!important;
 
 
       }
