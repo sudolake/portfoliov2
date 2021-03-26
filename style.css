@@ -48,7 +48,7 @@ h1{
 }
 
 .prof-pic{
-    width: 210px;
+    width: 190px;
     margin-bottom:80px;
 }
 
@@ -57,7 +57,7 @@ h1{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 32rem;
+        width: 28rem;
         height: auto;
 
       }
@@ -307,7 +307,7 @@ dot{
 
     .server-image{
 
-        width: 25.6rem;
+        width: 22.6rem;
 
 
       }
